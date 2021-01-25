@@ -1,0 +1,2 @@
+The course contains all the essential things related to python in Jupyter notebook.
+It's a really good online course for beginners. 
